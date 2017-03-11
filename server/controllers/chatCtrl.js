@@ -2,7 +2,7 @@ var chats = [];
 module.exports = {
 
   getChats:function(req,res){
-    // TODO write getChats
+    // TODO write getChatsI'll do this later
   },
   postChats:function(req,res){
     // TODO write postChats
